@@ -1,6 +1,6 @@
 {
   "name": "Everest",
-  "description": "Everest Community Token",
+  "description": "Indicate whether you are an artist or a listener, provide your email address, and we will take it from there.",
   "image": "https://gateway.pinata.cloud/ipfs/QmfQxNtJ2NRPw6mxmrnnjXbcThpNuT51zcW23EgpTt7tsJ/evr/logo.png",
   "properties": {
     "simple_property": "Everest Token",
