@@ -1,0 +1,29 @@
+{
+  "name": "Everest",
+  "description": "Everest Community Token",
+  "image": "https://gateway.pinata.cloud/ipfs/QmfQxNtJ2NRPw6mxmrnnjXbcThpNuT51zcW23EgpTt7tsJ/evr/logo.png",
+  "properties": {
+    "simple_property": "Everest Token",
+    "rich_property": {
+      "name": "Everest",
+      "value": "001",
+      "display_value": "001",
+      "class": "emphasis",
+      "css": {
+        "color": "#ffffff",
+        "font-weight": "bold",
+        "text-decoration": "underline"
+      }
+    },
+    "array_property": {
+      "name": "Everest",
+      "value": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "class": "emphasis"
+    }
+  }
+}
