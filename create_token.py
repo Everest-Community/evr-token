@@ -13,7 +13,7 @@ TREASURY_SECRET = os.getenv('TREASURY_SECRET')
 API_KEY = os.getenv('API_KEY')
 
 def algo_client_setup():
-    algod_address = "https://testnet-algorand.api.purestake.io/ps2"
+    algod_address = "https://mainnet-algorand.api.purestake.io/ps2"
     algod_token = API_KEY
     headers = {
    "X-API-Key": algod_token,
